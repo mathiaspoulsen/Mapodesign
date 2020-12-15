@@ -132,6 +132,41 @@
     padding: .5rem 1rem;
     margin: .5rem;
   }
+
+
+   
+
+.about { 
+  padding-left: 2rem;
+ padding-right: 2rem;
+}
+
+  .about > li > h4 {
+    font-size: 2rem;
+    line-height: 1.5;
+    color: white;
+    padding-bottom: 2rem;
+  }
+
+  .about > p {
+    font-size: 1rem ;
+    color: white;
+    align-items: center;
+  }
+
+  .about > ul {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(320px, 1fr));
+    grid-gap: 1rem;
+    list-style-type: none;
+
+  }
+
+  .about > ul > li {
+    color: rgb(255, 255, 255);
+    border-radius: .5rem;
+    padding-right: 2.5rem;
+  }
   
   /* footer */
   footer {
