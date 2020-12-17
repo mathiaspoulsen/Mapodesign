@@ -183,6 +183,10 @@
     padding: .5rem 1rem;
     margin: .5rem;
   }
+
+  .iframe {
+    border: 0px;
+  }
   
   /* footer */
   footer {
