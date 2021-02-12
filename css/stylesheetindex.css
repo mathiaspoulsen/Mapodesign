@@ -103,13 +103,13 @@
   
     .about h4 
     {
-      font-size: 45px;
+      font-size: 24px;
       line-height: 1.5;
       color: white;
     }
   
     .about > ul > li > p {
-      font-size: 25px;
+      font-size: 14px;
       color: white;
       
     }
